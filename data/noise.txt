@@ -1,0 +1,3 @@
+/content/gdrive/My Drive/Colab Notebooks/FullSubNet/data/noise/N.WAV
+/content/gdrive/My Drive/Colab Notebooks/FullSubNet/data/noise/MUL.WAV
+/content/gdrive/My Drive/Colab Notebooks/FullSubNet/data/noise/sp09_station_sn5.wav

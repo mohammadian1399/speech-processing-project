@@ -1,0 +1,80 @@
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_2 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_C_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_1 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_5 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_6 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_7 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_8 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_L_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_1 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_2 (1).wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_1_R_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_C_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_L_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_2_R_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_C_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_L_8.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_1.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_2.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_3.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_4.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_5.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_6.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_7.wav
+/content/gdrive/MyDrive/Colab Notebooks/FullSubNet/data/MARDY/ir_3_R_8.wav
